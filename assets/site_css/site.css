@@ -1,0 +1,24 @@
+
+  
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.dot {
+  stroke: #000;
+}
+
+#LeftSide {
+	border: solid 1px black;
+	border-radius: 3px;
+	padding: 4px;
+}
+
+
+#BuildingSelect {
+	height: 150px;
+	overflow: scroll;
+}
